@@ -12,9 +12,9 @@
 * [阶段II升级](jd/jd2sj.md)
 * [阶段III升级](jd/jie-duan-iii-sheng-ji.md)
 
-## 合成表
+## 插件 <a id="plugins"></a>
 
-* [Untitled](he-cheng-biao/untitled.md)
+* [Untitled](plugins/untitled.md)
 
 ---
 

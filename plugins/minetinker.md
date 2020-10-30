@@ -1,4 +1,4 @@
-# 匠魂
+# 匠魂/MineTinker
 
 ## 如何使用MineTinker？
 

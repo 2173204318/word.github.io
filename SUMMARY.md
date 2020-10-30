@@ -15,7 +15,7 @@
 
 ## 插件 <a id="plugins"></a>
 
-* [匠魂](plugins/minetinker.md)
+* [匠魂/MineTinker](plugins/minetinker.md)
 * [Untitled](plugins/untitled.md)
 * [Untitled](plugins/untitled-2.md)
 * [粘液科技](plugins/nian-ye-ke-ji.md)

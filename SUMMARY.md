@@ -6,6 +6,7 @@
 
 * [加入服务器](ru-fu/jia-ru-fu-wu-qi.md)
 * [创建岛屿](ru-fu/chuang-jian-dao-yu.md)
+* [服务器指令/菜单/具体玩法](ru-fu/commands.md)
 * [岛屿任务](ru-fu/dao-yu-ren-wu.md)
 
 ## 阶段 <a id="jd"></a>

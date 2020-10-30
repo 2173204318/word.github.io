@@ -1,12 +1,10 @@
-# 如何使用MineTinker？
+# 匠魂
 
 ## 如何使用MineTinker？
 
 ### 认识MineTinker
 
 * MineTinker类似于插件版的匠魂。对于第一次认识MineTinker的玩家，你可以将它看作扩展附魔插件。
-* 作者：[flo56958](https://www.spigotmc.org/resources/authors/flo56958.184735/)
-* [SpigotMC页面](https://www.spigotmc.org/resources/minetinker-40-modifiers-tools-and-armor.58940/)
 
 ### MineTinker工具与模块
 
@@ -14,10 +12,7 @@
 
 ### 如何将附魔工具转化为MineTinker工具？
 
-服务器中，从工作台做出的工具/装备默认为原版工具/装备。由于添加模块槽位的成本在大多数时候大于附魔，我们建议先对工具/装备进行附魔，然后转化成MineTinker模块。操作如下： 
-
-1. 将已附魔工具放入工作台，或生存模式合成栏。
-2. 从工作台或合成栏的右侧取出工具，这时你会发现原有的附魔属性已经转化成了MineTinker模块。
+服务器中，从工作台做出的工具/装备默认为为匠魂工具/装备。由如果您的装备为非匠魂装备,可在工作台中放入装备进行转化.
 
 ### 如何给MineTinker工具添加MineTinker模块？
 
@@ -38,8 +33,6 @@
 
   `通常情况下，下界之星是十分昂贵的。`
 
-
-
 ### 特色功能
 
 #### 工具修复
@@ -53,3 +46,4 @@ MineTinker允许直接将工具源材料在MineTinker工具上拖动来完成对
 #### 懒人收割
 
 将锄头进行MineTinker转化后，手持锄头右键农作物可以免补种收割。
+

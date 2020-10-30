@@ -16,6 +16,8 @@
 
 * [匠魂](plugins/minetinker.md)
 * [粘液科技](plugins/nian-ye-ke-ji.md)
+* [Untitled](plugins/untitled.md)
+* [Untitled](plugins/untitled-1.md)
 
 ---
 

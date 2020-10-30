@@ -14,7 +14,7 @@
 
 ## 插件 <a id="plugins"></a>
 
-* [Untitled](plugins/untitled.md)
+* [匠魂](plugins/minetinker.md)
 
 ---
 

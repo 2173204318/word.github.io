@@ -18,7 +18,7 @@
 ## 插件 <a id="plugins"></a>
 
 * [匠魂/MineTinker](plugins/minetinker.md)
-* [更好的流浪商人](plugins/llsr.md)
+* [流浪商人+](plugins/llsr.md)
 * [粘液科技/SlimeFun](plugins/slimefun/README.md)
   * [粘液核心科技](plugins/slimefun/slimefunexp.md)
   * [SlimeFun](plugins/slimefun/slimefun.md)

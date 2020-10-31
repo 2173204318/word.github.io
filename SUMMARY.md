@@ -25,7 +25,7 @@
 
 ---
 
-* [无偿赞助](wu-chang-zan-zhu/README.md)
-  * [赞助名单](wu-chang-zan-zhu/zan-zhu-ming-dan.md)
+* [无偿赞助](zz/README.md)
+  * [赞助名单](zz/zz.md)
 * [玩家编写的教程](wan-jia-bian-xie-de-jiao-cheng.md)
 

@@ -18,8 +18,7 @@
 
 * [匠魂/MineTinker](plugins/minetinker.md)
 * [Untitled](plugins/untitled.md)
-* [Untitled](plugins/untitled-2.md)
-* [粘液科技/SlimeFun](plugins/nian-ye-ke-ji.md)
+* [粘液科技/SlimeFun](plugins/slimefun.md)
 * [单挑](plugins/dantiao.md)
 
 ---

@@ -13,7 +13,7 @@
 ## 阶段 <a id="jd"></a>
 
 * [阶段II升级](jd/jd2sj.md)
-* [阶段III升级](jd/jie-duan-iii-sheng-ji.md)
+* [阶段III升级](jd/jd3sj.md)
 
 ## 插件 <a id="plugins"></a>
 

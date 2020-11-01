@@ -23,6 +23,7 @@
   * [粘液核心科技](plugins/slimefun/slimefunexp.md)
   * [SlimeFun](plugins/slimefun/slimefun.md)
 * [单挑](plugins/dantiao.md)
+* [自动箱子整理/ChestSort](plugins/chestsort.md)
 
 ---
 

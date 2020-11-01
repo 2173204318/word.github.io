@@ -24,6 +24,8 @@
   * [SlimeFun](plugins/slimefun/slimefun.md)
 * [单挑](plugins/dantiao.md)
 * [自动箱子整理/ChestSort](plugins/chestsort.md)
+* [简易漏斗分类](plugins/jian-yi-lou-dou-fen-lei.md)
+* [跑酷](plugins/pk.md)
 
 ---
 

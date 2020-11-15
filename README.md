@@ -1,7 +1,5 @@
 # 欢迎来到SkyCraft服务器
 
-## 欢迎来到SkyCraft服务器
-
 服务器IP:mc.skycraft.cn
 
 服务器QQ群:[1131146082](https://jq.qq.com/?_wv=1027&k=ySw3nXrB)

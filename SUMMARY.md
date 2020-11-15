@@ -18,9 +18,9 @@
 ## 插件 <a id="plugins"></a>
 
 * [匠魂/MineTinker](plugins/minetinker.md)
+* [技能/MCMMO](plugins/mcmmo.md)
 * [流浪商人+](plugins/llsr.md)
 * [粘液科技/SlimeFun](plugins/slimefun/README.md)
-  * [粘液核心科技](plugins/slimefun/slimefunexp.md)
   * [SlimeFun](plugins/slimefun/slimefun.md)
 * [单挑](plugins/dantiao.md)
 * [自动箱子整理/ChestSort](plugins/chestsort.md)

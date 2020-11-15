@@ -12,7 +12,7 @@ description: 阶段II升级所需物品
 
 [\[粘液科技\]](https://doc.skycraft.cn/plugins/slimefun):强化合金锭\*_2,镀金铁锭\*_2,寻矿镐\*1
 
-[\[匠魂\]](https://doc.skycraft.cn/plugins/minetinker):强化钻头
+[\[自定义合成\]](https://doc.skycraft.cn/plugins/minetinker):龙息*4,枯萎的灌木*4
 
 \[原版\]:末影之眼\*_2,粘液块\*_2
 

@@ -10,7 +10,7 @@
 
 如果您是新手,不知道怎么进入服务器,可访问[入服流程界面](https://doc.skycraft.cn/ru-fu/)查看进入步骤.
 
-服务器运行需要高昂的成本,如果您有能力,可访问[无偿赞助界面](https://doc.skycraft.cn/zz)无偿赞助服务器.
+服务器运行需要高昂的成本,如果您有能力,可访问[无偿赞助界面](https://doc.skycraft.cn/zz)无偿赞助服务器,无偿赞助后您的ID可出现在[赞助名单](https://doc.skycraft.cn/zz/zz)中.
 
 如果你是服务器玩家,欢迎协助我们完善服务器文档,详情联系[服主](https://jq.qq.com/?_wv=1027&k=ySw3nXrB).
 

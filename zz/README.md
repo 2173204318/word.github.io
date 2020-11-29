@@ -6,5 +6,5 @@ description: 无偿赞助才能使服务器活下来
 
 
 
-![](../.gitbook/assets/zz1.png)
+![](https://s3.ax1x.com/2020/11/29/D6zZRI.png)
 

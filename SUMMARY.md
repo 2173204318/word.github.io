@@ -28,7 +28,8 @@
 * [跑酷](plugins/pk.md)
 
 ---
-* [服务器更新](gx/11.md)
+* [服务器更新](gx/readme.md)
+  * [2020年11月](gx/11.md)
 * [无偿赞助](zz/README.md)
   * [赞助名单](zz/zz.md)
 * [玩家编写的教程](wan-jia-bian-xie-de-jiao-cheng.md)

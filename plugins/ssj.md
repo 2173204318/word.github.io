@@ -16,5 +16,5 @@
 - CRACKED_STONE_BRICKS: 1
 - CHISELED_STONE_BRICKS: 1
 - COAL_ORE: 0.5
-- SPONGE: 0.1
-  *仅会刷出少量煤炭,不推荐玩家通过本方式获取矿物!*
+- SPONGE: 0.1  
+*仅会刷出少量煤炭,不推荐玩家通过本方式获取矿物!*

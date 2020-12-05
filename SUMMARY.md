@@ -25,7 +25,7 @@
 * [单挑](plugins/dantiao.md)
 * [自动箱子整理/ChestSort](plugins/chestsort.md)
 * [简易漏斗分类](plugins/jian-yi-lou-dou-fen-lei.md)
-* [跑酷](plugins/pk.md)
+* [刷石机神奇物品](plugins/ssj.md)
 
 ---
 * [服务器更新](gx/readme.md)

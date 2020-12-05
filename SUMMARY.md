@@ -2,13 +2,13 @@
 
 * [首页](README.md)
 
-## 入服流程/入服须知 <a id="ru-fu"></a>
+## 入服流程/入服须知 <a id="rf"></a>
 
-* [加入服务器](ru-fu/jia-ru-fu-wu-qi.md)
-* [创建岛屿](ru-fu/chuang-jian-dao-yu.md)
-* [邀请玩家加入岛屿](ru-fu/yao-qing-wan-jia-jia-ru-dao-yu.md)
-* [服务器指令/菜单/具体玩法](ru-fu/commands.md)
-* [岛屿任务/服务器特殊任务解答](ru-fu/dao-yu-ren-wu.md)
+* [加入服务器](rf/jia-ru-fu-wu-qi.md)
+* [创建岛屿](rf/chuang-jian-dao-yu.md)
+* [邀请玩家加入岛屿](rf/yao-qing-wan-jia-jia-ru-dao-yu.md)
+* [服务器指令/菜单/具体玩法](rf/commands.md)
+* [岛屿任务/服务器特殊任务解答](rf/dao-yu-ren-wu.md)
 
 ## 阶段 <a id="jd"></a>
 

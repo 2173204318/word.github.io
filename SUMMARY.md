@@ -27,6 +27,7 @@
 * [简易漏斗分类](plugins/jian-yi-lou-dou-fen-lei.md)
 * [刷石机神奇物品](plugins/ssj.md)
 * [地狱/末地死亡不掉落](plugins/swbdl.md)
+* [基岩版加入服务器](plugins/geyser.md)
 
 ---
 * [服务器更新](gx/readme.md)

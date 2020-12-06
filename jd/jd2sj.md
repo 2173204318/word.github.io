@@ -17,7 +17,7 @@ description: 阶段II升级所需物品
 ## 升级至阶段II需要:  
 - 35级 经验  
 - 1000 游戏币  
-- [\[粘液科技\]](https://doc.skycraft.cn/plugins/slimefun):强化合金锭×2,镀金铁锭×2,寻矿镐×1  
+- [\[粘液科技\]](https://doc.skycraft.cn/plugins/slimefun):强化合金锭×2,镀金铁锭×4,寻矿镐×1  
 - [\[自定义合成\]](https://doc.skycraft.cn/plugins/minetinker):龙息×4,枯萎的灌木×4  
 - \[原版\]:末影之眼×2,粘液块×2  
 - 完成岛屿任务 \[新手\] 阶段    

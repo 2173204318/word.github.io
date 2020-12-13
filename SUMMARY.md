@@ -12,8 +12,11 @@
 
 ## 阶段 <a id="jd"></a>
 
-* [阶段II升级](jd/jd2sj.md)
-* [阶段III升级](jd/jd3sj.md)
+* [阶段II升级](jd/jd2.md)
+* [阶段III升级](jd/jd3.md)
+* [阶段IV升级](jd/jd4.md)
+* [阶段V升级](jd/jd5.md)
+* [阶段VI升级](jd/jd6.md)
 
 ## 插件 <a id="plugins"></a>
 

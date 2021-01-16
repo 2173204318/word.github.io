@@ -33,7 +33,7 @@
 * [地狱/末地死亡不掉落](plugins/swbdl.md)
 
 ---
-* [正版认证](zbrz.md)
+* [正版认证](zb.md)
 * [无偿赞助](zz/README.md)
   * [赞助名单](zz/zz.md)
 

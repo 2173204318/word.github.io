@@ -9,6 +9,7 @@
 * [邀请玩家加入岛屿](rf/yao-qing-wan-jia-jia-ru-dao-yu.md)
 * [服务器指令/菜单/具体玩法](rf/commands.md)
 * [岛屿任务/服务器特殊任务解答](rf/dao-yu-ren-wu.md)
+* [基岩版加入服务器](plugins/geyser.md)
 
 ## 阶段 <a id="jd"></a>
 
@@ -30,12 +31,9 @@
 * [简易漏斗分类](plugins/jian-yi-lou-dou-fen-lei.md)
 * [刷石机神奇物品](plugins/ssj.md)
 * [地狱/末地死亡不掉落](plugins/swbdl.md)
-* [基岩版加入服务器](plugins/geyser.md)
 
 ---
 * [服务器更新](gx/readme.md)
-  * [2020年11月](gx/11.md)
 * [无偿赞助](zz/README.md)
   * [赞助名单](zz/zz.md)
-* [玩家编写的教程](wan-jia-bian-xie-de-jiao-cheng.md)
 

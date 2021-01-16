@@ -17,6 +17,7 @@
 ------------
 - 填写[腾讯文档申请表](https://docs.qq.com/form/page/DVlBLR2VsR2pYQ21v?_w_tencentdocx_form=1)
 - 等待服主/管理员的审核
+- 如长期未审核,请联系服主
 ## 注意
 
 ------------

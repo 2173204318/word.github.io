@@ -15,7 +15,7 @@
 - 一个下界合金残骸  
 ### 步骤:
 ------------
-- 填写腾讯文档申请表
+- 填写[https://docs.qq.com/form/page/DVlBLR2VsR2pYQ21v?_w_tencentdocx_form=1](腾讯文档申请表)
 - 等待服主/管理员的审核
 ### 注意
 

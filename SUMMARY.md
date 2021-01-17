@@ -11,13 +11,6 @@
 * [岛屿任务/服务器特殊任务解答](rf/dao-yu-ren-wu.md)
 * [基岩版加入服务器](plugins/geyser.md)
 
-* [阶段](jd/jd2.md)
-  * [阶段II升级](jd/jd2.md)
-  * [阶段III升级](jd/jd3.md)
-  * [阶段IV升级](jd/jd4.md)
-  * [阶段V升级](jd/jd5.md)
-  * [阶段VI升级](jd/jd6.md)
-
 ## 插件 <a id="plugins"></a>
 
 * [匠魂/MineTinker](plugins/minetinker.md)
@@ -32,6 +25,12 @@
 * [地狱/末地死亡不掉落](plugins/swbdl.md)
 
 ---
+* [阶段](jd/jd2.md)
+  * [阶段II升级](jd/jd2.md)
+  * [阶段III升级](jd/jd3.md)
+  * [阶段IV升级](jd/jd4.md)
+  * [阶段V升级](jd/jd5.md)
+  * [阶段VI升级](jd/jd6.md)
 * [正版认证](zb.md)
 * [无偿赞助](zz/README.md)
   * [赞助名单](zz/zz.md)

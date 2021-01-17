@@ -32,6 +32,6 @@
   * [阶段IV升级](jd/jd4.md)
   * [阶段V升级](jd/jd5.md)
 * [正版认证](zb.md)
-* [无偿赞助](zz/README.md)
-  * [赞助名单](zz/zz.md)
+* [无偿赞助](http://zz.skycraft.cn/)
+  * [赞助名单](http://zz.skycraft.cn/zz)
 

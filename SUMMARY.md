@@ -25,7 +25,7 @@
 * [地狱/末地死亡不掉落](plugins/swbdl.md)
 
 ---
-* [阶段](jd.md)
+* [jd](jd.md)
   * [阶段II升级](jd/jd2.md)
   * [阶段III升级](jd/jd3.md)
   * [阶段IV升级](jd/jd4.md)

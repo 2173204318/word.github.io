@@ -15,16 +15,16 @@
 
 **步骤:**
 Mojang账号:
-①使用QQ,163,FOXMAIL等国内邮箱的
-填写[腾讯文档申请表](https://docs.qq.com/form/page/DVlBLR2VsR2pYQ21v?_w_tencentdocx_form=1)
+①使用QQ,163,FOXMAIL等国内邮箱的  
+填写[腾讯文档申请表](https://docs.qq.com/form/page/DVlBLR2VsR2pYQ21v?_w_tencentdocx_form=1)  
 
-②使用GMAIL,OUTLOOK等国外邮箱的
-发送账号,密码,ID至admin@SkyCraft.cn
-邮件标题注明：你的正版用户名-正版审核
-微软账户:
-因微软账户安全性过高,请使用手机拍摄视频,请打开HMCL启动器进行验证
-准备一张手写了SkyCraft的小纸条。
-使用手机对电脑显示器开始录制以下一段视频（电脑录屏不可）：
+②使用GMAIL,OUTLOOK等国外邮箱的  
+发送账号,密码,ID至admin@SkyCraft.cn  
+邮件标题注明：你的正版用户名-正版审核  
+微软账户:  
+因微软账户安全性过高,请使用手机拍摄视频,请打开HMCL启动器进行验证  
+准备一张手写了SkyCraft的小纸条。  
+使用手机对电脑显示器开始录制以下一段视频（电脑录屏不可）：  
 * 打开用户界面,显示正版登录；
 
 * 刷新用户界面；

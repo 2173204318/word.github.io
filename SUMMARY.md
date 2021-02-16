@@ -31,6 +31,7 @@
   * [阶段III升级](jd/jd3.md)
   * [阶段IV升级](jd/jd4.md)
   * [阶段V升级](jd/jd5.md)
+* [顶贴奖励](dt.md)
 * [限制](limits.md)
 * [正版认证](zb.md)
 * [无偿赞助](http://zz.skycraft.cn/)

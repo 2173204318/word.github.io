@@ -15,11 +15,7 @@
 
 **步骤:**
 Mojang账号:
-①使用QQ,163,FOXMAIL等国内邮箱的  
-填写[腾讯文档申请表](https://docs.qq.com/form/page/DVlBLR2VsR2pYQ21v?_w_tencentdocx_form=1)  
-
-②使用GMAIL,OUTLOOK等国外邮箱的  
-发送账号,密码,ID至admin@SkyCraft.cn  
+发送账号,密码,ID至dakandao@SkyCraft.cn  
 邮件标题注明：你的正版用户名-正版审核  
 微软账户:  
 因微软账户安全性过高,请使用手机拍摄视频,请打开HMCL启动器进行验证  
@@ -35,11 +31,11 @@ Mojang账号:
 
 * 请将以上录像以附件形式发送至电子邮箱admin@SkyCraft.cn
 
-邮件标题注明：你的正版用户名-正版审核
+邮件标题注明：你的正版用户名-微软正版审核
 
 **注意:**
 
-* 请耐心等待服主/管理员的审核
+* 请耐心等待服主天空(微软)/管理员大砍刀(Mojang)的审核
 
 * 审核每周一次,一般为每周六/日
 * 微软验证审核方式参考MCBBS

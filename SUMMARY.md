@@ -1,7 +1,7 @@
 # Table of contents
 
 * [首页](README.md)
-* [子服-空岛海岛](island/README.md)
+* [island](island/README.md)
 * [子服-单方块岛屿生存](aoneblock/README.md)
 * [子服-纯净生存](sc/README.md)
 

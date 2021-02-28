@@ -1,7 +1,9 @@
 # Table of contents
 
 * [首页](README.md)
-
+* [子服-空岛海岛](island.md)
+* [子服-单方块岛屿生存](aoneblock.md)
+* [子服-纯净生存](sc.md)
 ## 入服流程/入服须知 <a id="rf"></a>
 
 * [加入服务器](rf/jia-ru-fu-wu-qi.md)
@@ -11,7 +13,7 @@
 * [岛屿任务/服务器特殊任务解答](rf/dao-yu-ren-wu.md)
 * [基岩版加入服务器](rf/geyser.md)
 
-## 插件 <a id="plugins"></a>
+## 服务器通用插件教程 <a id="plugins"></a>
 
 * [匠魂/MineTinker](plugins/minetinker.md)
 * [技能/MCMMO](plugins/mcmmo.md)

@@ -4,6 +4,7 @@
 * [子服-空岛海岛](island/README.md)
 * [子服-单方块岛屿生存](aoneblock/README.md)
 * [子服-纯净生存](sc/README.md)
+
 ## 入服流程/入服须知 <a id="rf"></a>
 
 * [加入服务器](rf/jia-ru-fu-wu-qi.md)

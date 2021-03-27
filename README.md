@@ -6,7 +6,7 @@ description: 欢迎来到SkyCraft服务器官方文档 v2
 
 服务器IP:**mc.skycraft.cn** 服务器QQ群:[**599951039**](https://jq.qq.com/?_wv=1027&k=5FAjah40) ****服务器官网:[**skycraft.cn​**](https://skycraft.cn/) ****无偿赞助:[**zz.skycraft.cn​**](https://zz.skycraft.cn/)\*\*\*\*
 
-\[点我访问空岛海岛服文档\] \[点我访问生存服文档\] \[点我访问单方块服文档\] \[点我无偿赞助服务器\]
+\*\*\*\*[**\[点我访问空岛海岛服文档\]**](https://doc.skycraft.cn/v/kd/) ****[**\[点我访问生存服文档\]**](https://doc.skycraft.cn/v/sc/) ****[**\[点我访问单方块服文档\]**](https://doc.skycraft.cn/v/dfk/) ****[**\[点我无偿赞助服务器\]**](https://zz.skycraft.cn/)\*\*\*\*
 
 如果您是新手,不知道怎么进入服务器,可访问入服流程界面查看进入步骤.
 

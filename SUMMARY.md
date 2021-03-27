@@ -4,8 +4,6 @@
 
 ## 空岛海岛服 <a id="kd"></a>
 
-* [匠魂 / MineTinker](kd/minetinker.md)
-
 ## 生存服 <a id="sc"></a>
 
 * [Untitled](sc/untitled.md)

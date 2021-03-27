@@ -1,4 +1,4 @@
-# 箱子整理 / ChestSort
+# 自动箱子整理 / ChestSort
 
 ## 自动箱子整理/ChestSort
 

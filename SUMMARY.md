@@ -2,15 +2,15 @@
 
 * [首页](README.md)
 
-## 空岛海岛服 <a id="kong-dao"></a>
+## 空岛海岛服 <a id="kd"></a>
 
-* [匠魂 / MineTinker](kong-dao/minetinker.md)
+* [匠魂 / MineTinker](kd/minetinker.md)
 
-## 生存服
+## 生存服 <a id="sc"></a>
 
-* [Untitled](sheng-cun-fu/untitled.md)
+* [Untitled](sc/untitled.md)
 
-## 单方块服
+## 单方块服 <a id="dfk"></a>
 
-* [Untitled](dan-fang-kuai-fu/untitled.md)
+* [Untitled](dfk/untitled.md)
 

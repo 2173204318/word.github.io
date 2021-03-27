@@ -4,5 +4,5 @@
 
 ## 新手教程 <a id="rf"></a>
 
-* [Untitled](rf/untitled.md)
+* [基岩版加入服务器](rf/geyser.md)
 

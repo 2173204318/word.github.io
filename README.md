@@ -2,7 +2,7 @@
 description: 欢迎来到SkyCraft服务器生存服务器 官方文档
 ---
 
-# 生存服
+# 被囚禁的世界
 
 服务器IP:**mc.skycraft.cn** 服务器QQ群:[**599951039**](https://jq.qq.com/?_wv=1027&k=5FAjah40) ****服务器官网:[**skycraft.cn​**](https://skycraft.cn/) ****无偿赞助:[**zz.skycraft.cn​**](https://zz.skycraft.cn/)\*\*\*\*
 

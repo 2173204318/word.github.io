@@ -4,7 +4,7 @@ description: 欢迎来到SkyCraft服务器官方文档 v2
 
 # 首页
 
-
+请阅读[**\[服务器1.17升级说明\]**](https://doc.skycraft.cn/117)\*\*\*\*
 
 服务器IP:**mc.skycraft.cn** 服务器QQ群:[**599951039**](https://jq.qq.com/?_wv=1027&k=5FAjah40) ****服务器官网:[**skycraft.cn​**](https://skycraft.cn/) ****无偿赞助:[**zz.skycraft.cn​**](https://zz.skycraft.cn/)\*\*\*\*
 

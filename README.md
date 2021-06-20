@@ -4,6 +4,10 @@ description: 欢迎来到SkyCraft服务器空岛服务器 官方文档
 
 # 空岛服
 
+{% hint style="info" %}
+本服7月1日开放,正在重置中.
+{% endhint %}
+
 服务器IP:**mc.skycraft.cn** 服务器QQ群:[**599951039**](https://jq.qq.com/?_wv=1027&k=5FAjah40) ****服务器官网:[**skycraft.cn​**](https://skycraft.cn/) ****无偿赞助:[**zz.skycraft.cn​**](https://zz.skycraft.cn/)\*\*\*\*
 
 **您可在左侧查看本服目录的特色内容并进行浏览.**

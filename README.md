@@ -16,3 +16,5 @@ description: 欢迎来到SkyCraft服务器官方文档 v2
 
 如果你是服务器玩家,欢迎协助我们完善服务器文档,详情联系服主.
 
+{% page-ref page="./" %}
+

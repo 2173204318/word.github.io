@@ -41,13 +41,9 @@
 左键+潜行任意潜影盒可以查看其中的物品。  
 ![](https://proxy.spigotmc.org/fb2867d6bbee789b659c0ffecae1191a9d93933b?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FXFLiI23P4jknadYxNx%2Fgiphy.gif)  
   
-**自定义形状的地狱门**  
+**自定义形状的地狱门\(仅空岛\)**  
 地狱门**可以摆放成任意形状**，只要是闭合的，并且**可以自定义设置哪些方块**可以被用于摆放地狱传送门！  
 ![](https://proxy.spigotmc.org/895b7a54a81f2d3c962a7f3deaa484c28080bede?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FlvNLsBMJVDr4vURpxa%2Fgiphy.gif)  
-  
-**快速向前、向下摆放方块**  
-你可以跟基岩版玩家那样直接向前、向下放置方块，无需潜行，空岛玩家yyds。你可以使用**/togglereacharound \| /treacharound**来切换该功能。**（需要权限：\[tweakin.reacharound.togglecommand\]）**  
-![](https://proxy.spigotmc.org/46073adcc2fc624d62a811612030b9a74cfbb3fd?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FCBQglrw8fureBG4jwN%2Fgiphy.gif)  
   
 **快速树叶消失**
 
@@ -65,7 +61,7 @@
 玩家进入服务器后自动解锁所有配方，**方便萌新**知道自己合成XX需要什么材料。  
 ![](https://proxy.spigotmc.org/be047fe31ffb78ce9b724e2d58a083856dfece20?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F6dlcLX1nuV18oxYWKM%2Fgiphy.gif)  
   
-**地狱门坐标指南**  
+**地狱门坐标指南\(仅空岛\)**  
 使用指南针对准地狱门右键即可知道其在主世界/下界的坐标位置。  
 ![](https://proxy.spigotmc.org/d25e501dd8d69ad0f37572909b62c29f10f970e6?url=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FzfhL53hWeiFwKdXobi%2Fgiphy.gif)  
   
